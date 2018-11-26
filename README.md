@@ -2,6 +2,7 @@
 
 `README` 文件后缀名为 `.md`。`md` 是 markdown 的缩写，markdown 是一种编辑博客的语言。不过GitHub 支持的语法在标准 markdown 语法的基础上做了修改，称为 Github Flavored Markdown，简称 GFM。下面列出一些比较不错的教程。
 
+- 推荐[Git Magic](http://www-cs-students.stanford.edu/~blynn/gitmagic/intl/zh_cn/)
 - [伯乐在线](伯乐在线.md)
 - [GitHub 可以做什么？](GitHub可以做什么.md)
 - [如何使用 GitHub？](https://www.zhihu.com/question/20070065/answer/79557687)
