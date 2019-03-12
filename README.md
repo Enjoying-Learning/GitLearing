@@ -8,3 +8,5 @@
 - [如何使用 GitHub？](https://www.zhihu.com/question/20070065/answer/79557687)
 - [我们可以使用 Git 以及 GitHub 做哪些事情？](我们可以使用Git以及GitHub做哪些事情.md)
 - [教程](教程.md)
+- [GitHub 获 star 指南](https://www.phodal.com/blog/how-get-get-star-for-github/)
+
