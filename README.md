@@ -9,4 +9,4 @@
 - [我们可以使用 Git 以及 GitHub 做哪些事情？](我们可以使用Git以及GitHub做哪些事情.md)
 - [教程](教程.md)
 - [GitHub 获 star 指南](https://www.phodal.com/blog/how-get-get-star-for-github/)
-
+- [如何在GitHub上做一个优秀的贡献者？](https://www.zhihu.com/question/310488111/answer/585336948)
